@@ -25,7 +25,22 @@ fig = hydrohyeto_matplotlib.hydrohyeto(
 fig.savefig('demo.png')
 ```
 
-
+### 設定値
+```python
+default_kwargs = {
+    'name_rain': '時間雨量', # DataFrameのカラム名を指定（雨量）
+    'name_pred': '時刻水位', # DataFrameのカラム名を指定（予測値）
+    'name_real': '時刻水位', # DataFrameのカラム名を指定（実測値）
+    'label_rain': 'Rainfall',
+    'label_pred': 'Proposed',
+    'label_real': 'Obs',
+    'x_interval_hour': 1,
+    'title': '',
+    'rain_ylim': (0, 60),
+    'lable_y1': 'Inflow$(m^{3}/s)$',
+    'lable_y2': 'Rainfall(mm/h)'
+}
+```
 
 
 ## インストール

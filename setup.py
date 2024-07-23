@@ -11,7 +11,7 @@ AUTHOR_EMAIL = 'hakoken.of.joytoy@gmail.com'
 URL = 'https://github.com/yakitoritabetai/hydrohyeto-matplotlib'
 LICENSE = 'MIT'
 DOWNLOAD_URL = URL
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 PYTHON_REQUIRES = '>=3.11'
 INSTALL_REQUIRES = [
     'japanize-matplotlib',
