@@ -2,6 +2,8 @@
 # hydrohyeto_matplotlib
 ハイドロ、ハイエトグラフをmatplotlibで表示します。
 
+![demo](https://github.com/yakitoritabetai/hydrohyeto-matplotlib/blob/master/demo.png?raw=true "demo")
+
 ## 利用方法
 - hydrohyeto_matplotlibをimportした後、hydrohyetoを実行します。
 - グラフのラベルや凡例等のパラメータはコードの「default_kwargs」を参照してください。
@@ -24,7 +26,7 @@ fig.savefig('demo.png')
 ```
 
 
-![demo](https://raw.githubusercontent.com/uehara1414/japanize-matplotlib/master/demo.png?token=AOnChuZIQchUxiL0U8qlW633FM-RMSuvks5bxW8zwA%3D%3D "demo")
+
 
 ## インストール
 ```sh
