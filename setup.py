@@ -18,7 +18,7 @@ INSTALL_REQUIRES = [
     
 ]
 PACKAGES = [
-    'hydrohyeto-matplotlib'
+    'hydrohyeto_matplotlib'
 ]
 KEYWORDS = 'matplotlib'
 CLASSIFIERS=[

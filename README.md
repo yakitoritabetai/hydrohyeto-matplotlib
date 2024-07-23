@@ -1,4 +1,4 @@
-[![PyPI version](https://badge.fury.io/py/japanize-matplotlib.svg)](https://badge.fury.io/py/japanize-matplotlib)
+[![PyPI version](https://badge.fury.io/py/hydrohyeto-matplotlib.svg)](https://badge.fury.io/py/hydrohyeto-matplotlib.svg)
 # hydrohyeto_matplotlib
 ハイドロ、ハイエトグラフをmatplotlibで表示します。
 
